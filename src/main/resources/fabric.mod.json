@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "hacksawed",
+	"version": "${version}",
+	"name": "Stitched",
+	"description": "Various slight tweaks to vanilla that I wanted to add.",
+	"authors": [
+		"Paul Marmet"
+	],
+	"contact": {
+		"sources": "https://github.com/PaulMarmet/stitched"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/stitched/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "net.pm.stitched.Stitched"
+		],
+		"client": [
+          "net.pm.stitched.StitchedClient"
+		]
+	},
+	"mixins": [
+		"stitched.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.21",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
