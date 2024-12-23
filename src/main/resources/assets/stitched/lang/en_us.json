@@ -38,5 +38,6 @@
   "stitched.midnightconfig.copperGrateFallthroughSize.tooltip":"This value is found by taking the average of all 3 sides.",
   "stitched.midnightconfig.drowningDrops":"Husks Drop Sand When Drowning",
   "stitched.midnightconfig.drowningDrops.tooltip":"This is controlled by the loot table under minecraft:entities/drown/[entity]",
-  "stitched.midnightconfig.regrowCaveVines":"Glow Berries Regrow"
+  "stitched.midnightconfig.regrowCaveVines":"Glow Berries Regrow",
+  "stitched.midnightconfig.glowBerriesGiveGlowing":"Glow Berries Give Glowing"
 }

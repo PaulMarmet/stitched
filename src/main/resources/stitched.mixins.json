@@ -5,8 +5,8 @@
   "mixins": [
     "AbstractBlockMixin",
     "BlockBreakingMixin",
-    "BlocksMixin",
     "BlockMixin",
+    "BlocksMixin",
     "BundleContentMixin",
     "CaveVineBodyBlockMixin",
     "EchoShardMixin",
@@ -19,6 +19,7 @@
     "IceMixin",
     "ItemFireproofMixin",
     "ItemImmuneExplosionMixin",
+    "FoodComponentsMixin",
     "ItemUseMixin",
     "SnowMixin",
     "SweetBerryBushMixin"

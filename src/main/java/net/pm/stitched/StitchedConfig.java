@@ -30,5 +30,6 @@ public class StitchedConfig extends MidnightConfig {
     @Entry(category = "general", min = 0.0, max = 256) public static double copperGrateFallthroughSize = 0.7;
     @Entry(category = "general") public static boolean drowningDrops = true;
     @Entry(category = "general") public static boolean regrowCaveVines = true;
+    @Entry(category = "general") public static boolean glowBerriesGiveGlowing = true;
 
 }
