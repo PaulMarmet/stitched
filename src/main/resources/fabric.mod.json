@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "hacksawed",
+	"id": "stitched",
 	"version": "${version}",
 	"name": "Stitched",
 	"description": "Various slight tweaks to vanilla that I wanted to add.",
